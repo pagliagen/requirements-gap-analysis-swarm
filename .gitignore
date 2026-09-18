@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+report_gap_analysis.md
+.cache_agenti.json

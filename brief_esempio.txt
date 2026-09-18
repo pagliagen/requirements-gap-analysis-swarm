@@ -1,0 +1,18 @@
+Call con Rossi Srl 15/09 - appunti
+
+Vogliono collegare HubSpot al loro gestionale (Danea Easyfatt, on premise, hanno un
+"connettore" che espone delle API REST, non chiaro se documentate). Obiettivo: quando un
+deal in HubSpot passa a "Chiuso vinto" deve creare il cliente in Easyfatt se non esiste e
+poi l'ordine. Poi vorrebbero anche riportare in HubSpot lo stato fatture (pagata/non pagata)
+per far partire delle automazioni di sollecito.
+
+Hanno circa 3000 contatti in HubSpot, ma il gestionale ha "molti più clienti" (storico
+di 15 anni). Chiudono 20-30 deal al mese.
+
+Referente IT è Marco, esterno (consulente), ha lui gli accessi al server.
+HubSpot: Professional, l'account l'ha aperto il commerciale.
+
+Il titolare vuole tutto "entro fine anno" per il nuovo listino.
+Ha chiesto se possiamo usare la P.IVA come chiave, ma dice che molti privati non la hanno.
+
+Nota: hanno chiesto un preventivo a un'altra agenzia, budget non dichiarato.
