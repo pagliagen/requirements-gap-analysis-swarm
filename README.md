@@ -100,3 +100,4 @@ basta una nuova voce con `id`, `nome` e `focus`.
 - `.env.example` — modello per la configurazione della chiave
 - `requirements.txt` — dipendenze (`anthropic`, `python-dotenv`)
 # requirements-gap-analysis-swarm
+# requirements-gap-analysis-swarm
